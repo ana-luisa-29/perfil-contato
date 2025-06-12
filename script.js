@@ -1,16 +1,17 @@
-function toggleMode() {
+function toggleMode(){
     const html = document.documentElement;
-    html.classList.toggle(light);
+    html.classList.toggle("light");
 
-    // pegar a tag img
+    // Pegar a tag img
     const img = document.querySelector("#profile img");
 
-    // substituir a img
-    if(html.contains("light")) {
-        // se estiver light vai add a img light
+    // Substituir a imagem
+    if(html.classList.contains("light")) {
+        // Se tiver light mode, adicionar a imagem light
         img.setAttribute("src", "./assets/images/avatar-light.jpg");
     } else {
-        // se n tiver light, vai dark
-        img.setAttribute("src", "./assets/images/avatar-dark.jpg")
+        // Se não tiver light mode, manter a imagem atual
+        img.setAttribute("src", "./assets/images/avatar-dark.jpg");
+
     }
 }
