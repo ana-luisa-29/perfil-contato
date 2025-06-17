@@ -1,4 +1,4 @@
-# cuiabano-food<h1 align="center"> 🍽️ CUIABANO FOOD </h1>
+# cuiabano-food<h1 align="center"> 🍽️ CUIABANO </h1>
 
 <br>
 
@@ -40,8 +40,6 @@ Acessar Site Cuiabano Food **[Clique aqui](https://ana-luisa-29.github.io/perfil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px" height="80px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="80px" height="80px" />
-  <img src=".github/scrollreavel.jpg" width="200px" height="100px"/>
 </div>  
  
 <br>
@@ -49,8 +47,8 @@ Acessar Site Cuiabano Food **[Clique aqui](https://ana-luisa-29.github.io/perfil
 - **HTML5** → Estruturação do projeto
 - **CSS3** → Estilização e responsividade
 - **JavaScript e jQuery** → Funcionalidades interativas
-- **ScrollReveal** → Animações suaves ao rolar a página
-- **Font Awesome** → Para ícones e fontes
+- **Google** → Para fontes
+- **Ion-icons** → Para ícones
 
 
 <br>
@@ -58,7 +56,6 @@ Acessar Site Cuiabano Food **[Clique aqui](https://ana-luisa-29.github.io/perfil
 ## 🧩💻 Funcionalidades
 
 ✅ **Design responsivo** para diferentes dispositivos 📱💻  
-✅ **Animações suaves** ao rolar a página ✨  
 ✅ **Interface moderna e intuitiva** 🎨  
 ✅ **Código organizado e escalável** 🔧  
 ✅ **Otimizado para performance e carregamento rápido** 🚀
@@ -67,7 +64,7 @@ Acessar Site Cuiabano Food **[Clique aqui](https://ana-luisa-29.github.io/perfil
 
 ## 📷 Prévia do Projeto
 
-![Preview do projeto](.github/perfil-contato-home.png)
+![Preview do projeto](.github/home.png)
 
 <br>
 
@@ -111,8 +108,7 @@ Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma
 
 ## 📌 Melhorias Futuras
 
-- Implementação de um sistema de pedidos online 🛒
-- Integração com API para gestão do cardápio 📊
+- Integração com API para gestão dos links dos projetos 📊
 - Animações adicionais para maior interatividade ✨
 
 <br>
@@ -127,4 +123,5 @@ Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
 ## Autor
 <br>
-💡 **Desenvolvido por [ana luisa](https://github.com/ana-luisa-29)** </div>
+
+💡 **Desenvolvido por [ana luisa](https://github.com/ana-luisa-29)**
